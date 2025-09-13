@@ -162,7 +162,7 @@ void excluirElemento()
 		//excluir valor.
 		while(atual != NULL)
 		{
-			if(atual->valor = valor)
+			if(atual->valor == valor)
 			{
 				break;
 			}
